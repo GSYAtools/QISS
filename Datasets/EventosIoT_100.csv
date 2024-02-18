@@ -1,0 +1,125 @@
+IdIncident;IdThreat;Threat;Severity;CoA;Time (h)
+1;[NR];Network reconnaissance;2;C16;22
+2;[ROM];Replay of messages;1;C6;45
+3;[TA];Targeted attacks;3;C14;43
+3;[TA];Targeted attacks;3;C5;43
+4;[DD];Device destruction (sabotage);4;C7;11
+5;[IOI];Interception of information;2;C14;6
+6;[FOD];Failures of devices;3;C8;6
+7;[MW];Malware;2;C14;4
+7;[MW];Malware;2;C3;4
+8;[TA];Targeted attacks;1;C10;23
+8;[TA];Targeted attacks;1;C3;23
+9;[VRRBL];Violation of rules and regulations / Breach of legislation;0;C14;6
+9;[VRRBL];Violation of rules and regulations / Breach of legislation;0;C5;6
+10;[EK];Exploit Kits;0;C4;4
+11;[CPH];Communication protocol hijacking;0;C5;22
+11;[CPH];Communication protocol hijacking;0;C15;22
+12;[VRRBL];Violation of rules and regulations / Breach of legislation;2;C8;29
+13;[TPF];Third parties failures;4;C3;8
+13;[TPF];Third parties failures;4;C6;8
+14;[DN];Disaster natural;2;C9;24
+15;[NO];Network outage;2;C4;6
+16;[IOI];Interception of information;4;C6;38
+17;[NR];Network reconnaissance;4;C11;20
+18;[IOI];Interception of information;1;C11;4
+19;[CMD];Counterfeit by malicious devices;1;C11;24
+20;[CPH];Communication protocol hijacking;3;C5;44
+21;[TA];Targeted attacks;3;C4;38
+22;[MIM];Man in the middle;1;C12;8
+22;[MIM];Man in the middle;1;C14;8
+23;[ED];Environment Disaster;4;C11;40
+24;[NR];Network reconnaissance;0;C5;6
+25;[TPF];Third parties failures;1;C1;29
+26;[FOD];Failures of devices;2;C7;12
+27;[MIM];Man in the middle;4;C10;4
+28;[TPF];Third parties failures;3;C16;10
+28;[TPF];Third parties failures;3;C7;10
+29;[DM];Device modification;2;C4;4
+30;[MIM];Man in the middle;0;C11;14
+31;[SV];Software vulnerabilities;4;C13;17
+32;[AP];Attacks on privacy;2;C2;12
+33;[IOI];Interception of information;2;C1;46
+34;[MIM];Man in the middle;2;C7;16
+35;[TPF];Third parties failures;0;C5;4
+36;[NR];Network reconnaissance;0;C2;4
+37;[CPH];Communication protocol hijacking;2;C9;38
+38;[DN];Disaster natural;4;C7;6
+39;[AP];Attacks on privacy;1;C14;35
+40;[LOSS];Loss of support services;0;C4;40
+41;[TA];Targeted attacks;2;C8;31
+42;[TPF];Third parties failures;0;C9;45
+42;[TPF];Third parties failures;0;C1;45
+43;[DD];Device destruction (sabotage);3;C6;4
+44;[IOI];Interception of information;4;C7;31
+45;[TPF];Third parties failures;0;C3;13
+46;[APD];Abuse of personal data;4;C8;26
+47;[DDoS];DDoS;3;C1;6
+47;[DDoS];DDoS;3;C3;6
+48;[FMCR];Failure to meet contractual requirements;3;C12;22
+48;[FMCR];Failure to meet contractual requirements;3;C1;22
+49;[APD];Abuse of personal data;3;C13;24
+49;[APD];Abuse of personal data;3;C9;24
+50;[MI];Modification of information;4;C16;20
+50;[MI];Modification of information;4;C9;20
+51;[FOD];Failures of devices;4;C1;28
+52;[FOS];Failure of system;2;C8;12
+53;[DM];Device modification;4;C1;40
+53;[DM];Device modification;4;C13;40
+54;[IOI];Interception of information;3;C1;34
+55;[MW];Malware;0;C15;33
+56;[FMCR];Failure to meet contractual requirements;3;C3;9
+57;[ED];Environment Disaster;2;C11;17
+58;[FOS];Failure of system;2;C14;15
+58;[FOS];Failure of system;2;C3;15
+59;[EK];Exploit Kits;3;C5;14
+60;[ED];Environment Disaster;0;C11;21
+61;[DSIL];Data / Sensitive information leakage;2;C5;38
+62;[TPF];Third parties failures;3;C5;28
+63;[LOSS];Loss of support services;1;C10;10
+64;[TPF];Third parties failures;4;C12;27
+64;[TPF];Third parties failures;4;C16;27
+65;[DDoS];DDoS;1;C15;34
+66;[NR];Network reconnaissance;3;C2;35
+66;[NR];Network reconnaissance;3;C9;35
+67;[MIM];Man in the middle;0;C13;37
+68;[ROM];Replay of messages;3;C13;17
+69;[DDoS];DDoS;4;C9;9
+70;[DDoS];DDoS;2;C6;32
+71;[FMCR];Failure to meet contractual requirements;3;C2;4
+71;[FMCR];Failure to meet contractual requirements;3;C8;4
+72;[SH];Session hijacking;3;C12;33
+73;[DN];Disaster natural;2;C6;44
+74;[DM];Device modification;3;C12;25
+75;[MIM];Man in the middle;0;C8;4
+76;[MI];Modification of information;1;C10;29
+77;[SH];Session hijacking;0;C4;4
+78;[DDoS];DDoS;4;C5;14
+79;[LOSS];Loss of support services;0;C3;25
+80;[LOSS];Loss of support services;1;C14;37
+81;[ROM];Replay of messages;0;C1;29
+82;[FMCR];Failure to meet contractual requirements;0;C4;38
+83;[TPF];Third parties failures;0;C16;11
+84;[FMCR];Failure to meet contractual requirements;1;C7;16
+85;[MI];Modification of information;0;C11;33
+86;[NR];Network reconnaissance;4;C2;39
+86;[NR];Network reconnaissance;4;C1;39
+87;[NR];Network reconnaissance;4;C16;21
+87;[NR];Network reconnaissance;4;C1;21
+88;[LOSS];Loss of support services;4;C11;23
+89;[NO];Network outage;1;C15;11
+90;[APD];Abuse of personal data;4;C10;38
+91;[ROM];Replay of messages;4;C2;46
+92;[MIM];Man in the middle;2;C2;4
+93;[NO];Network outage;2;C5;33
+93;[NO];Network outage;2;C14;33
+94;[DM];Device modification;3;C10;20
+95;[DSIL];Data / Sensitive information leakage;1;C15;37
+96;[NR];Network reconnaissance;0;C16;10
+96;[NR];Network reconnaissance;0;C10;10
+97;[ED];Environment Disaster;4;C2;38
+98;[MW];Malware;4;C13;31
+99;[ED];Environment Disaster;3;C5;44
+99;[ED];Environment Disaster;3;C14;44
+100;[TA];Targeted attacks;1;C2;5
+100;[TA];Targeted attacks;1;C12;5

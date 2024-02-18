@@ -1,0 +1,68 @@
+IdIncident;IdThreat;Threat;Severity;CoA;Time (h);Sustainability
+1;[SV];Software vulnerabilities;0;C5;5;A
+2;[ED];Environment Disaster;3;C11;17;E
+3;[IOI];Interception of information;1;C7;41;F
+3;[IOI];Interception of information;1;C1;41;A
+4;[IG];Information gathering;0;C1;35;A
+5;[DDoS];DDoS;3;C5;4;A
+5;[DDoS];DDoS;3;C6;4;E
+6;[VRRBL];Violation of rules and regulations / Breach of legislation;2;C5;10;A
+7;[LOSS];Loss of support services;0;C15;11;D
+8;[NO];Network outage;2;C1;28;A
+9;[CPH];Communication protocol hijacking;2;C3;4;G
+10;[MIM];Man in the middle;4;C3;39;G
+11;[MI];Modification of information;1;C10;4;B
+12;[DDoS];DDoS;1;C16;46;A
+13;[TA];Targeted attacks;2;C9;31;F
+14;[MI];Modification of information;1;C9;4;F
+14;[MI];Modification of information;1;C16;4;A
+15;[IOI];Interception of information;2;C7;4;F
+16;[MIM];Man in the middle;3;C1;30;A
+17;[SH];Session hijacking;4;C7;4;F
+18;[NR];Network reconnaissance;1;C1;45;A
+18;[NR];Network reconnaissance;1;C15;45;D
+19;[ED];Environment Disaster;0;C4;9;C
+19;[ED];Environment Disaster;0;C6;9;E
+20;[NR];Network reconnaissance;0;C16;28;A
+20;[NR];Network reconnaissance;0;C14;28;B
+21;[ROM];Replay of messages;4;C6;42;E
+22;[ROM];Replay of messages;4;C7;37;F
+23;[NO];Network outage;1;C11;19;E
+24;[VRRBL];Violation of rules and regulations / Breach of legislation;3;C2;7;G
+25;[EK];Exploit Kits;0;C13;27;C
+26;[TPF];Third parties failures;0;C13;13;C
+27;[IG];Information gathering;2;C7;11;F
+27;[IG];Information gathering;2;C9;11;F
+28;[DSIL];Data / Sensitive information leakage;1;C15;36;D
+29;[VRRBL];Violation of rules and regulations / Breach of legislation;0;C6;21;E
+29;[VRRBL];Violation of rules and regulations / Breach of legislation;0;C2;21;G
+30;[DDoS];DDoS;3;C1;7;A
+31;[FOD];Failures of devices;1;C15;4;D
+31;[FOD];Failures of devices;1;C2;4;G
+32;[MW];Malware;2;C14;4;B
+32;[MW];Malware;2;C2;4;G
+33;[FOS];Failure of system;3;C3;4;G
+34;[TA];Targeted attacks;4;C15;31;D
+35;[TA];Targeted attacks;2;C12;33;G
+35;[TA];Targeted attacks;2;C16;33;A
+36;[DDoS];DDoS;1;C2;14;G
+36;[DDoS];DDoS;1;C8;14;F
+37;[DSIL];Data / Sensitive information leakage;0;C9;38;F
+38;[FOD];Failures of devices;4;C11;44;E
+38;[FOD];Failures of devices;4;C15;44;D
+39;[AP];Attacks on privacy;2;C2;21;G
+40;[CMD];Counterfeit by malicious devices;3;C16;6;A
+40;[CMD];Counterfeit by malicious devices;3;C5;6;A
+41;[CMD];Counterfeit by malicious devices;2;C10;46;B
+42;[MI];Modification of information;0;C9;25;F
+42;[MI];Modification of information;0;C4;25;C
+43;[DN];Disaster natural;2;C10;33;B
+44;[IOI];Interception of information;4;C9;21;F
+44;[IOI];Interception of information;4;C7;21;F
+45;[NR];Network reconnaissance;0;C15;44;D
+46;[IOI];Interception of information;4;C7;10;F
+46;[IOI];Interception of information;4;C10;10;B
+47;[DSIL];Data / Sensitive information leakage;2;C8;12;F
+48;[MIM];Man in the middle;3;C2;28;G
+49;[SH];Session hijacking;1;C7;33;F
+50;[IG];Information gathering;2;C4;18;C
