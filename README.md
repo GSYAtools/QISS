@@ -18,6 +18,7 @@ A quantum algorithm is developed that efficiently selects the minimal set of req
 
 ### Example of Incident Dataset
 ![Incident Dataset Example](img/table1.png)
+![CoA](img/table2.png)
 *It shows the dataset of security incidents used to validate the quantum algorithm. Each row represents a unique incident, detailing the associated threat, the course of action required, and its sustainability rating. This table provides a comprehensive overview of the incidents and the considered responses, highlighting the complexity of managing security in IoT environments.*
 
 ## Proposed Quantum Approach and Results
@@ -32,9 +33,7 @@ The use of quantum computing is proposed to manage the incidents efficiently, co
 
 The study emphasizes the importance of integrating sustainability into security incident responses, proposing further research into adapting this approach to other critical sectors reliant on IoT. Additionally, the integration of artificial intelligence techniques to enhance incident prediction and automate responses is discussed.
 
-### Comparison of Results Across Different Scenarios
-![Results Comparison](img/table4.png)
-*It compares the effectiveness of different response strategies across several simulated scenarios. It provides insights into how the application of the quantum algorithm varies with different priorities, such as response time versus sustainability, demonstrating the flexibility and adaptability of the proposed method.*
+
 
 ## How to Use This Repository
 
